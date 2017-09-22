@@ -1,0 +1,19 @@
+{
+  "name": "search_viewer",
+  "version": "1.0.0",
+  "description": "\"search and view search results from terminal\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samueltommzy/search_viewer.git"
+  },
+  "author": "Ologunowa Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samueltommzy/search_viewer/issues"
+  },
+  "homepage": "https://github.com/Samueltommzy/search_viewer#readme"
+}
