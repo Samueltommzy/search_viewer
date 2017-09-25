@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Samueltommzy/search_viewer#readme",
   "dependencies": {
+    "argv": "0.0.2",
     "request": "^2.82.0",
     "require": "^2.4.20",
     "yargs": "^9.0.1"
